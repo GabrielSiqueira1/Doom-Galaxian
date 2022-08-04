@@ -35,13 +35,8 @@ aplicação se utiliza de som para ambientação.
 
 Gameplay:
 ------------------------------------------
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/110564584/182958987-4add0486-88ad-4998-9ae0-51007a47eeb7.gif)
 
-<span align="center">
 
-<div>
-<img src="gif/Doom-Galaxian_ Gameplay.gif" width=700px>
-</div>
-
-</span>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
