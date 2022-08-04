@@ -1,6 +1,6 @@
 # Doom-Galaxian
 
-Engenharia de Computação - Segundo Semestre - Computação Gráfica
+Engenharia de Computação - Segundo Período - Computação Gráfica
 
 Integrantes do grupo:
 
