@@ -25,8 +25,8 @@ Sobre o jogo:
 Avisos para Compilação/Execução:
 ------------------------------------------
 <p>
-O projeto foi realizado em C++ e C, e portanto, para que a execução ocorra da melhor forma possível é necessário instalar as bibiotecas SDL2, para que a interface gráfica esteja ativa, e SDL2 Mixer, pois a
-aplicação se utiliza de som para ambientação.
+O projeto foi realizado em C e C++, logo, para que a execução ocorra da melhor forma possível, é necessário instalar as bibiotecas SDL2, para que a interface gráfica esteja ativa, e a SDL2 Mixer, pois a
+aplicação utiliza efeitos sonoros e música para ambientação.
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
